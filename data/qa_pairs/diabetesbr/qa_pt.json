@@ -1,0 +1,68 @@
+[
+    {
+        "question":"1.Por que as pessoas com diabetes est\u00e3o no grupo de maior risco de infec\u00e7\u00e3o em rela\u00e7\u00e3o ao COVID-19?",
+        "answer":"Quem tem diabetes n\u00e3o tem maior risco de se contaminar pelo coronav\u00edrus, mas tem maior risco de complica\u00e7\u00f5es pela infec\u00e7\u00e3o.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"2.Toda pessoa com diabetes tem imunidade baixa? A pouca ou aus\u00eancia de insulina afeta a imunidade?",
+        "answer":"A baixa imunidade est\u00e1 ligada \u00e0 eleva\u00e7\u00e3o do a\u00e7\u00facar no sangue, n\u00e3o \u00e0 falta de produ\u00e7\u00e3o de insulina. A pessoa com diabetes que est\u00e1 muito acima do peso tamb\u00e9m pode ter a imunidade afetada por ter maior inflama\u00e7\u00e3o.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"3.Pessoas com diabetes controlado t\u00eam menos risco de complica\u00e7\u00f5es relacionadas ao coronavirus?",
+        "answer":"O risco de complica\u00e7\u00f5es pelo COVID-19 \u00e9 muito menor e quase igual ao das pessoas sem diabetes se os n\u00edveis de a\u00e7\u00facar no sangue estiverem controlados.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"4.O risco de complica\u00e7\u00f5es do COVID-19 \u00e9 maior tanto para quem tem diabetes tipo 1 quanto tipo 2?",
+        "answer":"O risco de complica\u00e7\u00f5es \u00e9 maior para aqueles com 60 anos ou mais, com complica\u00e7\u00f5es do diabetes, com doen\u00e7as concomitantes como a press\u00e3o altae que est\u00e3o com altos n\u00edveis de a\u00e7\u00facar no sangue, independe do tipo de diabetes.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"5.Fa\u00e7o tratamento para resist\u00eancia \u00e0 insulina com metformina. Tenho maior risco de complica\u00e7\u00f5es pelo coronav\u00edrus?",
+        "answer":"A pessoa que tem resist\u00eancia \u00e0 insulina, mas n\u00e3o tem diabetes, n\u00e3o est\u00e1 no grupo de risco para complica\u00e7\u00f5es.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"6.Sou profissional da sa\u00fade e tenho diabetes. Posso requerer licen\u00e7a por conta do coronav\u00edrus?",
+        "answer":"A SBD indica que essa conduta seja tomada pelo m\u00e9dico do trabalho, que tem o poder de requerer essa licen\u00e7a.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"7.Tenho diabetes tipo 1 e minha/meu namorada(o) trabalha como enfermeira(o). Devo evitar o contato com ela(e) ou ela(e) \u00e9 uma pessoa com a mesma chance de transmiss\u00e3o como qualquer um?",
+        "answer":"Caso sua/seu namorada(o) esteja em contato com pessoas que tiveram ou est\u00e3o com o v\u00edrus, seria prudente voc\u00ea evitar o contato.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"8.Tenho diabetes tipo 1 e minha m\u00e3e tem uma doen\u00e7a cr\u00f4nica. Por estar em grupo de risco, ela foi afastada do servi\u00e7o dela com remunera\u00e7\u00e3o. Nessa \u00e9poca de coronav\u00edrus, eu tamb\u00e9m tenho o direito de afastamento remunerado do trabalho?",
+        "answer":"Pe\u00e7a orienta\u00e7\u00e3o ao seu m\u00e9dico sobre afastamento ou mudan\u00e7a de fun\u00e7\u00e3o. Deve-se levar em considera\u00e7\u00e3o o tempo de diabetes, se o diabetes est\u00e1 bem controlado, se h\u00e1 alguma complica\u00e7\u00e3o do diabetes ou doen\u00e7a associada, como hipertens\u00e3o arterial.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"9.As pessoas com diabetes que tomam Captopril, Enalapril, Losartana, Aspirina ou Pioglitazona devem suspender o tratamento?",
+        "answer":"N\u00e3o, n\u00e3o h\u00e1 evid\u00eancias que justifiquem a suspens\u00e3o desses medicamentos, Eles devem ser mantidos conforme a prescri\u00e7\u00e3o m\u00e9dica.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"10.Tomar vitamina C diminui o risco de COVID-19?",
+        "answer":"N\u00e3o existe nenhuma vitamina, soro, terapia alternativa ou terapia dita para aumentar a imunidade que previna ou trate COVID-19.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    },
+    {
+        "question":"11.Pr\u00e9 Diabetes \u00e9 considerado grupo de risco?",
+        "answer":"N\u00e3o h\u00e1 dados dispon\u00edveis com n\u00edvel de evid\u00eancia que possa afirmar que pacientes pr\u00e9-diab\u00e9ticos tenham risco aumentado em face a uma infec\u00e7\u00e3o do corona v\u00edrus.",
+        "category":"covid19",
+        "source":"https://www.diabetes.org.br/perguntas-frequentes/"
+    }
+]
